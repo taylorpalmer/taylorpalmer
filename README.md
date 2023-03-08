@@ -2,8 +2,8 @@
 
 I'm Taylor. I am a Silicon Valley based Software Engineer who  is passionate about using my technology skills to aid environmental and conservation efforts to preserve nature and contribute to a healthy planet.
 
-- 🔭 I’m currently working on an app to connect and schedule with pet groomers.
-- 🌱 I’m currently learning Ant Design.
+- 🔭 I’m currently working on an UX mockups.
+- 🌱 I’m currently learning design and architecture for the email marketing space.
 
 <h3>🛠 Tech Stack</h3>
 
